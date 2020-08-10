@@ -1,6 +1,5 @@
 DATASET LINK:
 http://www.openslr.org/12#:~:text=LibriSpeech%20is%20a%20corpus%20of,been%20carefully%20segmented%20and%20aligned.
 
-Weights :
-
+weights
 
