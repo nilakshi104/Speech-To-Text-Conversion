@@ -1,3 +1,6 @@
 # Speech To Text Conversion
 
-[elephant](/1272-128104-0000.flac)
+[Audio File](/1272-128104-0000.flac)
+
+#### Amplitude Vs Time plot of above Audio:
+
