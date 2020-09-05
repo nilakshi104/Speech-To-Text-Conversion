@@ -1,6 +1,22 @@
 # Speech To Text Conversion
+Repo Contains NLP implementation Of Project in Speech To Text Conversion Folder
 
-[Audio File](/1272-128104-0000.flac)
+This repo is divided into 2 parts:
+  * Speech To Text Conversion :It contains code for preprocessing of audio data and training of dataset Using Defined Attention Model in pytorch.
+  * S2T_T2S :It contains implementation Of speech to text Conversion Using API method(with Google API)
 
-#### Amplitude Vs Time plot of above Audio:
+## PreProcessing Of Audio Data:
 
+#### Audio file:
+
+[Audio File](Data/1272-128104-0000.flac)
+
+#### Amplitude Vs Time plot of Audio:
+<img src="Data/audio_plot.png" width="650"/>
+
+#### Melspectrogram of  Audio:
+<img src="Data/melspectro_audio.png" width="650"/>
+
+## Training:
+
+Using Defined Attention Model, dataset is trained in pytorch
