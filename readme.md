@@ -2,8 +2,14 @@
 Repo Contains NLP implementation Of Project in Speech To Text Conversion Folder
 
 This repo is divided into 2 parts:
-  * Speech To Text Conversion :It contains code for preprocessing of audio data and training of dataset Using Defined Attention Model in pytorch.
-  * S2T_T2S :It contains implementation Of speech to text Conversion Using API method(with Google API)
+  * **Speech To Text Conversion** :It contains code for preprocessing of audio data and training of dataset Using Defined Attention Model in pytorch.
+  * **S2T_T2S** :It contains implementation Of speech to text Conversion Using API method(with Google API)
+
+## Dataset
+
+[openSLR LibriSpeech Dataset](http://www.openslr.org/12)
+
+For this project dev-other.tar.gz file from LibriSpeech of size 332 MB is used.
 
 ## PreProcessing Of Audio Data:
 
