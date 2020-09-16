@@ -2,7 +2,7 @@
 Repo Contains NLP implementation Of Project in Speech To Text Conversion Folder
 
 THIS REPO IS DIVIDED INTO TWO PARTS:
-  * **Speech To Text Conversion** :It contains code for preprocessing of audio data and training of dataset Using Defined Attention Model in pytorch.
+  * **Speech To Text Conversion** :It contains code for preprocessing of audio data and training of dataset Using Attention Model in pytorch.
   * **S2T_T2S** :It contains implementation Of speech to text Conversion Using API method(with Google API)
 
 ## Dataset
